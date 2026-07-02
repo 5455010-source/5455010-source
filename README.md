@@ -1,16 +1,35 @@
-## Hi there 👋
+# Otomil .
+esta es mi primer experiencia,  utilizando GITHUB para subir mis proyectos de programación
+### Mi Repositorio personal
 
-<!--
-**5455010-source/5455010-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Presentación
+Este repositorio fue creado para organizar mi información personal, mis metas, mis objetivos y mis avances como estudiante.
 
-Here are some ideas to get you started:
+## Metas personales
+- Mejorar mis conocimientos.
+- Organizar mis tareas de estudio.
+- Aprender de forma constante.
+- Mantener ordenados mis proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+- Cumplir mis responsabilidades académicas.
+- Desarrollar mejores hábitos de estudio.
+- Documentar mis actividades y avances.
+- Usar este repositorio como apoyo personal.
+
+## Cuadro estudiantil
+| Aspecto | Información |
+|---|---|
+| Nombre | Edwin Otoniel Miranda Cruz |
+| Lugar | San Salvador, SV |
+| Área de interés | Tecnología, programación y documentación |
+| Tipo de repositorio | Personal / estudiantil |
+| Propósito | Organización de metas y actividades |
+
+## Mis compromisos
+- Estudiar con disciplina.
+- Mantener mis archivos organizados.
+- Seguir aprendiendo nuevas herramientas.
+- Mejorar cada día en mis conocimientos.
+
+## Derechos reservados
